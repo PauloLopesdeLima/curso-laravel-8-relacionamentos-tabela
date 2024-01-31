@@ -1,0 +1,125 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5048
+    [34mall[39m: [
+      [34;4mApp\Models\Course[39;24m {#5080
+        [34mname[39m: "[32mMiss Nella Wiegand I[39m",
+        [34memail[39m: "[32mkulas.felton@example.com[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5076
+          [34mdate[39m: [36m2024-01-31 13:35:18.233522 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mppklAnMHcx[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5082
+        [34mname[39m: "[32mKendra Johnson[39m",
+        [34memail[39m: "[32mmmills@example.net[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5079
+          [34mdate[39m: [36m2024-01-31 13:35:18.526023 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mjEhVmwtmRp[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m2[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5084
+        [34mname[39m: "[32mMr. Ezra Nitzsche[39m",
+        [34memail[39m: "[32mjboehm@example.com[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5050
+          [34mdate[39m: [36m2024-01-31 13:35:18.526226 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mWWvaDhZCXa[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m3[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5086
+        [34mname[39m: "[32mLilly Weber[39m",
+        [34memail[39m: "[32mxschneider@example.com[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5081
+          [34mdate[39m: [36m2024-01-31 13:35:18.526406 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32m65f9wgAxOH[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m4[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5088
+        [34mname[39m: "[32mHannah Pfannerstill[39m",
+        [34memail[39m: "[32mbtremblay@example.com[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5083
+          [34mdate[39m: [36m2024-01-31 13:35:18.526606 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mQHcIksXzvA[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m5[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5090
+        [34mname[39m: "[32mJonas Davis[39m",
+        [34memail[39m: "[32mjessy.braun@example.net[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5085
+          [34mdate[39m: [36m2024-01-31 13:35:18.526793 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mmM5uCjqfDY[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m6[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5092
+        [34mname[39m: "[32mJohnny Lesch[39m",
+        [34memail[39m: "[32mglen.metz@example.net[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5087
+          [34mdate[39m: [36m2024-01-31 13:35:18.526977 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mMKMCnlIQNV[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m7[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5094
+        [34mname[39m: "[32mDr. Keeley Schneider PhD[39m",
+        [34memail[39m: "[32mstanford.ledner@example.net[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5089
+          [34mdate[39m: [36m2024-01-31 13:35:18.527167 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32m4Brj3AT2qV[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m8[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5096
+        [34mname[39m: "[32mJamison Kulas[39m",
+        [34memail[39m: "[32mrhoda59@example.org[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5091
+          [34mdate[39m: [36m2024-01-31 13:35:18.527355 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32muaNBuCq9jd[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m9[39m,
+      },
+      [34;4mApp\Models\Course[39;24m {#5098
+        [34mname[39m: "[32mDr. Bret Satterfield II[39m",
+        [34memail[39m: "[32mdelta67@example.net[39m",
+        [34memail_verified_at[39m: [34;4mIlluminate\Support\Carbon @1706718918[39;24m {#5093
+          [34mdate[39m: [36m2024-01-31 13:35:18.527600 America/Sao_Paulo (-03:00)[39m,
+        },
+        [34mpassword[39m: "[32m$2y$12$NHQSjsBNwV7BJ8Xeu9ZJYeY/qIdoRI5.uMbmR5nPXZI9/Wj7vbuvC[39m",
+        [34mremember_token[39m: "[32mHzHEW8huV3[39m",
+        [34mupdated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mcreated_at[39m: "[32m2024-01-31 13:35:18[39m",
+        [34mid[39m: [35m10[39m,
+      },
+    ],
+  }
+
